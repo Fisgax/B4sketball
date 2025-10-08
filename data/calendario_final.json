@@ -1,0 +1,114 @@
+{
+  "estratégia": "The Events Calendar + Dados Manuais",
+  "tribe_events_encontrado": true,
+  "tribe_events_url": "https://www.fpb.pt/feed/?post_type=tribe_events",
+  "total_eventos": 10,
+  "eventos": [
+    {
+      "data": "2025-10-06",
+      "hora": "18:00",
+      "equipa_casa": "SL Benfica",
+      "equipa_fora": "FC Porto",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão SL Benfica",
+      "fonte": "estrutura_manual",
+      "nota": "Jogo exemplo - atualizar com dados reais"
+    },
+    {
+      "data": "2025-10-09",
+      "hora": "18:00",
+      "equipa_casa": "FC Porto",
+      "equipa_fora": "Sporting CP",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão FC Porto",
+      "fonte": "estrutura_manual",
+      "nota": "Jogo exemplo - atualizar com dados reais"
+    },
+    {
+      "data": "2025-10-12",
+      "hora": "18:00",
+      "equipa_casa": "Sporting CP",
+      "equipa_fora": "UD Oliveirense",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão Sporting CP",
+      "fonte": "estrutura_manual",
+      "nota": "Jogo exemplo - atualizar com dados reais"
+    },
+    {
+      "data": "2025-10-15",
+      "hora": "18:00",
+      "equipa_casa": "UD Oliveirense",
+      "equipa_fora": "Ovarense Gavex",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão UD Oliveirense",
+      "fonte": "estrutura_manual",
+      "nota": "Jogo exemplo - atualizar com dados reais"
+    },
+    {
+      "data": "2025-10-18",
+      "hora": "18:00",
+      "equipa_casa": "Ovarense Gavex",
+      "equipa_fora": "Imortal DC",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão Ovarense Gavex",
+      "fonte": "estrutura_manual",
+      "nota": "Jogo exemplo - atualizar com dados reais"
+    },
+    {
+      "data": "2025-10-21",
+      "hora": "18:00",
+      "equipa_casa": "Imortal DC",
+      "equipa_fora": "CAB Madeira",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão Imortal DC",
+      "fonte": "estrutura_manual",
+      "nota": "Jogo exemplo - atualizar com dados reais"
+    },
+    {
+      "data": "2025-10-24",
+      "hora": "18:00",
+      "equipa_casa": "CAB Madeira",
+      "equipa_fora": "Vitória SC",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão CAB Madeira",
+      "fonte": "estrutura_manual",
+      "nota": "Jogo exemplo - atualizar com dados reais"
+    },
+    {
+      "data": "2025-10-27",
+      "hora": "18:00",
+      "equipa_casa": "Vitória SC",
+      "equipa_fora": "Lusitânia",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão Vitória SC",
+      "fonte": "estrutura_manual",
+      "nota": "Jogo exemplo - atualizar com dados reais"
+    },
+    {
+      "data": "2025-10-30",
+      "hora": "18:00",
+      "equipa_casa": "Lusitânia",
+      "equipa_fora": "Galitos",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão Lusitânia",
+      "fonte": "estrutura_manual",
+      "nota": "Jogo exemplo - atualizar com dados reais"
+    },
+    {
+      "data": "2025-11-02",
+      "hora": "18:00",
+      "equipa_casa": "Galitos",
+      "equipa_fora": "Esgueira",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão Galitos",
+      "fonte": "estrutura_manual",
+      "nota": "Jogo exemplo - atualizar com dados reais"
+    }
+  ],
+  "update_time": "2025-10-06 23:14:07.849476",
+  "notas": [
+    "Site principal tem CAPTCHA - impossível scraping direto",
+    "The Events Calendar encontrado mas pode precisar de autenticação",
+    "Estrutura manual criada como fallback"
+  ]
+}

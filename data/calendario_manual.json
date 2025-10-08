@@ -1,0 +1,22 @@
+{
+  "fonte": "Atualização manual - Site FPB tem CAPTCHA",
+  "update_time": "2025-10-06 23:10:18.819787",
+  "jogos": [
+    {
+      "data": "2024-01-20",
+      "hora": "18:00",
+      "equipa_casa": "SL Benfica",
+      "equipa_fora": "FC Porto",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão Fidelidade"
+    },
+    {
+      "data": "2024-01-21",
+      "hora": "17:00",
+      "equipa_casa": "Sporting CP",
+      "equipa_fora": "Ovarense Gavex",
+      "competicao": "Liga Betclic",
+      "local": "Pavilhão João Rocha"
+    }
+  ]
+}

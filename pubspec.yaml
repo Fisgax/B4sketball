@@ -1,0 +1,39 @@
+name: b4sketball_app
+description: Aplicação de recibos de jogo de basquetebol.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  flutter_test:
+    sdk: flutter
+  test: ^1.24.0
+  cupertino_icons: ^1.0.6
+  url_launcher: ^6.3.1  # Atualizado para versão mais recente
+  excel: ^4.0.6
+  path_provider: ^2.1.2
+  share_plus: ^11.0.0
+  signature: ^6.3.0
+  pdf: ^3.10.7
+  printing: ^5.12.0
+  speech_to_text: ^7.0.0
+  geolocator: ^14.0.1
+  geocoding: ^4.0.0
+  flutter_email_sender: ^7.0.0
+  video_player: ^2.8.1
+  http: ^1.2.0
+
+dependency_overrides:  # Adicione esta seção para resolver conflitos
+  material_color_utilities: ^0.13.0
+  meta: ^1.17.0
+  vector_math: ^2.2.0
+
+flutter:
+  assets:
+    - assets/videos/cadavaros_7287988521388854534-no-watermark.mp4
+    - assets/basket_fundo.png
+    - assets/calendario_fpb_completo.json
+  uses-material-design: true

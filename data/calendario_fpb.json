@@ -1,0 +1,21 @@
+{
+  "total_padroes_encontrados": 2,
+  "padroes": [
+    {
+      "padrao": "x",
+      "contexto": "<!DOCTYPE html><html style=\"margin-top: 0px !important; --vh: 10.8px;\" class=\" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolo"
+    },
+    {
+      "padrao": "X",
+      "contexto": "in-trial\" content=\"A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGU"
+    }
+  ],
+  "total_linhas_jogos": 1,
+  "linhas_jogos": [
+    "3X3BASKETART"
+  ],
+  "texto_total_caracteres": 1584,
+  "html_total_caracteres": 201182,
+  "frames_encontrados": 6,
+  "update_time": "2025-10-06 22:35:33.222788"
+}
