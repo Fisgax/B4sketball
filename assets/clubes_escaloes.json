@@ -1,0 +1,64 @@
+{
+  "clubes": [
+    {
+      "nome": "SL Benfica",
+      "escaloes": ["Seniores", "Sub20", "Sub18", "Sub16", "Sub14", "Sub12"]
+    },
+    {
+      "nome": "FC Porto", 
+      "escaloes": ["Seniores", "Sub20", "Sub18", "Sub16", "Sub14", "Sub12"]
+    },
+    {
+      "nome": "Sporting CP",
+      "escaloes": ["Seniores", "Sub20", "Sub18", "Sub16", "Sub14", "Sub12"]
+    },
+    {
+      "nome": "Imortal DC",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    },
+    {
+      "nome": "Ovarense",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    },
+    {
+      "nome": "Académica",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    },
+    {
+      "nome": "Galitos",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    },
+    {
+      "nome": "Illiabum",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    },
+    {
+      "nome": "Sangalhos",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    },
+    {
+      "nome": "Vitória SC",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    },
+    {
+      "nome": "Esgueira",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    },
+    {
+      "nome": "Barcelos",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    },
+    {
+      "nome": "Maia Basket",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    },
+    {
+      "nome": "CAB Madeira",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    },
+    {
+      "nome": "Lusitânia",
+      "escaloes": ["Seniores", "Sub18", "Sub16", "Sub14"]
+    }
+  ]
+}
